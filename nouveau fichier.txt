@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 oimiolio
 tyutrthrth
 rhrthtrh
 rgrth
 rthrthrth
+=======
+eazea
+azeaze
+azeazer
+rzerzer
+eazea
+>>>>>>> test-conflit
